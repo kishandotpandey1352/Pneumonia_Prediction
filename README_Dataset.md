@@ -29,4 +29,5 @@ STEPS:
 9)Save the model
 
 
-Note:The dataset "Pneumonia Dataset" can be downloaded from kaggle. Since it is huge(>25 MB), cannot be uploaded to Github.
+Note:The dataset "Pneumonia Dataset" can be downloaded from kaggle. Since it is huge(>25 MB), cannot be uploaded to Github. Link
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
